@@ -1,7 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say language="es-MX">
-        Esta es una prueba de voz del sistema de monitoreo.
-        El servicio de alertas está funcionando.
-    </Say>
+    <Play>https://betatesterpe.github.io/alertas/gobpe_down.mp3</Play>
     <Hangup/>
 </Response>
